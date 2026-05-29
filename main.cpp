@@ -6,7 +6,8 @@ int main()
   std::cout << "Group  5130904/50003 emails" << '\n';
 
   std::string emails[] {
-  "volkov.av@spbstu.ru",
+  // добавлять корпоративные email здесь
+  "altynbaeva.af@edu.spbstu.ru"
   "malevanaya.ms@edu.spbstu.ru",
   "yuriev.dl@edu.spbstu.ru",
   "koropov.vo@edu.spbstu.ru",
